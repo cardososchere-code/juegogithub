@@ -19,5 +19,5 @@ echo"<h3>Sistemas administrativos</h3>";
 echo"Crear registros de clientes o pacientes, consultar historiales, actualizar información, eliminar datos duplicados.";
 echo "<h1>para que sirve </h1>";
 echo "<h2?>El CRUD es fundamental para el desarrollo de aplicaciones que interactuan con bases de datos, ya que permite gestionar la informacion de manera eficiente y estructurada. 
-      Es utilizado en una amplia variedad de aplicaciones, desde sistemas de gestion de contenido (CMS) hasta aplicaciones empresariales y plataformas de comercio electronico.</h2>";
+      ES utilizado en una amplia variedad de aplicaciones, desde sistemas de gestion de contenido (CMS) hasta aplicaciones empresariales y plataformas de comercio electronico.</h2>";
 ?>
