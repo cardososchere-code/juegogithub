@@ -4,11 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <style>
-        h3{
-            background-color: cyan;
-        }
-    </style>
 </head>
 <body>
     <center><h1>LO QUE RECUERDO EN JAVA</h1></center>
