@@ -6,4 +6,8 @@ echo "<h3?>Crud es un conjunto de cuatro operaciones que se realizan en cualquie
       R=Read(leer, sirve para consultar o mostrar infromacion que ya es almacenada), 
       U=Update(actualizar, te deja modificr datos existentes),
       D=Delete(eliminar, se usa para borrar infromacion que ya no sirve)</h3>";
+
+echo "<h1>para que sirve </h1>";
+echo "<h2?>El CRUD es fundamental para el desarrollo de aplicaciones que interactuan con bases de datos, ya que permite gestionar la informacion de manera eficiente y estructurada. 
+      Es utilizado en una amplia variedad de aplicaciones, desde sistemas de gestion de contenido (CMS) hasta aplicaciones empresariales y plataformas de comercio electronico.</h2>";
 ?>
